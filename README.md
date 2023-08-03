@@ -1,2 +1,2 @@
 # github-course
-## smaller heading
+## smaller header
